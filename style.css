@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+.avengers{
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: darkorchid;
+}
+table{
+    margin: auto;
+}
+th{
+    background-color: chocolate;
+}
+td{
+    background-color: darkgoldenrod;
+}
+.description{
+    font-size: 30px;
+}
+table{
+    font-family: 'Teko', sans-serif;
+}
+h1{
+    font-family: 'Teko', sans-serif;
+}
+.name{
+    font-size: 23px;
+}
+.color{
+    font-size: 21px;
+}
+.gems{
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+}
